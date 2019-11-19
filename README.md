@@ -1,7 +1,7 @@
 # EPG-EdemTV
 EPG для вашего IPTV
 
-Ссылка на EPG в формате XMLTV: 
+Ссылка на EPG в формате XMLTV: **https://github.com/iFrez/EPG-EdemTV/raw/master/edem.xml.gz**
 
 Что особенного в EPG-EdemTV
 - максимальное покрытие программой передач в одном XMLTV-файле для каналов Edem TV
