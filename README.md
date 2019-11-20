@@ -18,4 +18,4 @@ EPG для вашего IPTV
 # Copyright
 Все права принадлежат сайту: it999.ru
 
-Если Вы хотите пододдержать автора: https://epg.it999.ru/feedback/
+Если Вы хотите поддержать автора: https://epg.it999.ru/feedback/
